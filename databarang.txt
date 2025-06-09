@@ -1,0 +1,5 @@
+﻿Kode Barang      Nama Barang         Jenis barang         Jumlah stok   Harga barang
+A001                   Clear                         Shampoo             12                  12500
+A002                   Rexona                       Deodorant       10                   10000
+A003                   Lifebuoy                    Sabun                  20                   8500
+A004                   Daia                         Deterjen          15                   22500
